@@ -47,8 +47,8 @@ print("71 degrees Fahrenheit in Celsius is:", fahr_to_celsius(71),"celsius")
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+#1. yes
+#2. Functions can be used to make code easier to read and reduce code duplication.
 #
 #
 
